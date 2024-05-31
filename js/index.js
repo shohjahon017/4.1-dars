@@ -111,3 +111,47 @@
 // console.log(d);
 
 //18-masala
+let a = +prompt("Ikki xonali son kiriting");
+let son = a % 100;
+let b = son % 10;
+let c = son / 10;
+let d = b * 100 + c * 10;
+console.log(d);
+
+//19-masala
+// let a = +prompt("Uch xonali sonni kiritig");
+// let b = a / 100;
+// console.log(b);
+
+//20-masala
+// let a = +prompt("Uch xonali son kiriting");
+// let b = a / 10;
+// let c = a % 10;
+// console.log(b);
+// console.log(c);
+
+//21-masala
+// let a = +prompt("Uch xonali son kiriting");
+// let b = a / 10;
+// let c = a % 10;
+// let i = a / 100;
+// let d = (a / 10) + (a % 10) + (a / 100);
+// console.log(d);
+
+//22-masala
+// let a = +prompt("Uch xonali son kiriting");
+// let son = a % 100;
+// let birlik = son % 10;
+// let onlik = son / 10;
+// let yuzlik = a / 100;
+// let i = birlik * 100 + onlik * 10 + yuzlik;
+// console.log(i);
+
+//23-masala
+// let a = +prompt("Uch xonali son kiriting");
+// let son = a % 100;
+// let birlik = son % 10;
+// let onlik = son / 10;
+// let yuzlik = a / 100;
+// let i = onlik * 100 + birlik * 10 + yuzlik;
+// console.log(i);
